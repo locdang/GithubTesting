@@ -1,3 +1,4 @@
 This is test in Child2 directory
 This line: modify the file after adding
 Commit without git add
+Adding for git commit --amend
