@@ -1,2 +1,3 @@
 this is the first test
 This line is used to make second commit
+Used for test diff command
