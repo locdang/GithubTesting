@@ -1,0 +1,2 @@
+This is test in Child2 directory
+This line: modify the file after adding
